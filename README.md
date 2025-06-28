@@ -213,10 +213,18 @@ MIT License — Open for use, extension, and collaboration.
 
 ## 📌 What's Next
 
-* 🌍 **Expand to Multiple Domains**
-* 🚀 **Improve Scalability**
-* 🔍 **Hybrid Search Optimization**
-* 🧠 **Fine-Tune LLMs**
-* ⚡ **Enhance Real-Time Processing**
+- 🌍 **Expand to Multiple Domains**  
+  Extend to sectors like healthcare, e-commerce, and finance with new annotated datasets.
 
+- 🚀 **Improve Scalability**  
+  Optimize pipelines to handle larger datasets efficiently in production environments.
+
+- 🔍 **Hybrid Search Optimization**  
+  Combine FAISS vector search with keyword-based retrieval to enhance precision and recall.
+
+- 🧠 **Fine-Tune LLMs**  
+  Apply domain-specific fine-tuning for improved model accuracy and contextual understanding.
+
+- ⚡ **Enhance Real-Time Processing**  
+  Boost performance and reduce latency for faster feedback loop integration and live insights.
 
