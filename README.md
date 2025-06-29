@@ -188,15 +188,19 @@ Review
 
 ## 🌍 Domain Adaptability
 
-✅ Trained on airline data but built to be domain-independent.
-To adapt:
 
-1. Annotate new domain reviews
-2. Generate new embeddings
-3. Replace FAISS index
-4. Done — no code changes required
+
+✅ **Trained on airline data but built to be domain-independent.**
+To adapt to a new domain:
+
+1. 📝 Annotate new domain reviews
+2. 🧠 Generate new embeddings
+3. 📦 Replace the FAISS index
+4. ✏️ Update prompts to reflect domain-specific terminology and aspects
+5. ✅ Done — no code changes required
 
 ---
+
 
 ## 🌐 Live Deployments
 
