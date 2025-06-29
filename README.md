@@ -197,7 +197,7 @@ To adapt to a new domain:
 2. 🧠 Generate new embeddings
 3. 📦 Replace the FAISS index
 4. ✏️ Update prompts to reflect domain-specific terminology and aspects
-5. ✅ Done — no code changes required
+5. 🔁 Reuse the existing pipeline without modification to core logic
 
 ---
 
