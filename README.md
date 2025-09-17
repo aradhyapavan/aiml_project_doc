@@ -204,8 +204,8 @@ To adapt to a new domain:
 
 ## 🌐 Live Deployments
 
-* 🔹 [Single Review UI](https://hackathon-devpost-f2dmp.ondigitalocean.app/)
-* 🔸 [Batch Review Analysis](https://hackathon-devpost-batch-4szva.ondigitalocean.app/)
+* 🔹 [Single Review UI](https://bits-dissertation-project-sra-2fdf8c78ca1c.herokuapp.com/)
+* 🔸 [Batch Review Analysis](https://bits-des-batch-j6ljm.ondigitalocean.app/)
 
 ---
 
